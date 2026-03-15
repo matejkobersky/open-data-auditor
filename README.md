@@ -43,3 +43,14 @@ Nejjednodušší cesta je stáhnout si hotový program **OpenDataAuditor.exe** z
 3. Spusťte aplikaci:
    ```bash
    python main.py
+
+📊 Datasety
+Všechna data použitá pro analýzu v bakalářské práci naleznete ve složce datasets/.
+Poznámka k Estonsku: Dataset Estonska je kvůli své velikosti nahrán ve formátu ZIP (nebo jako vzorek). Před testováním v aplikaci jej prosím rozbalte.
+
+⚖️ Licence
+Tento projekt je šířen pod licencí MIT. Více informací naleznete v souboru LICENSE.
+
+Autor: Matěj Josef Koběrský
+
+Instituce: PEF ČZU v Praze
